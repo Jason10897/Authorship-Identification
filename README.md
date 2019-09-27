@@ -4,9 +4,11 @@ Contains the code and datasets for my final year project titled 'Authorship Iden
 1. Authorship Identification.ipynb
 <br>Contains the entire code of the project. Includes Data Preprocessing, Feature Extraction, Feature Visualization, Model Development, Model Testing, Model Selection, Prediction. 
 
-2.
+2. train.csv
+<br>Training Dataset that contains textual sentences from various books by 3 authors from the Horror domain.
 
-3.
+3. test.csv
+<br>Testing Dataset that contains textual sentences from various books by 3 authors from the Horror domain.
 
 4.
 
