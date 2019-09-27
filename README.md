@@ -10,7 +10,8 @@ Contains the code and datasets for my final year project titled 'Authorship Iden
 3. test.csv
 <br>Testing Dataset that contains textual sentences from various books by 3 authors from the Horror domain.
 
-4.
+4. sub_fe.csv
+<br>Result CSV that contains the predicted authors for each sample in the Testing Dataset.
 
 5.
 
