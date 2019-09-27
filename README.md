@@ -13,6 +13,7 @@ Contains the code and datasets for my final year project titled 'Authorship Iden
 4. sub_fe.csv
 <br>Result CSV that contains the predicted authors for each sample in the Testing Dataset.
 
-5.
+5. Research Paper IJETTCS-2019-05-06-3.pdf
+<br>Research Paper for the project. Contains all the research and results for the project.
 
 Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
