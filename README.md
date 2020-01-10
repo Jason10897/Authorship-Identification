@@ -16,4 +16,4 @@ Contains the code and datasets for my final year project titled 'Authorship Iden
 5. Research Paper IJETTCS-2019-05-06-3.pdf
 <br>Research Paper for the project. Contains all the research and results for the project.
 
-Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around.
+Note: GitHub may not be able to render a Jupyter Notebook in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around. Alternatively, you can copy paste the GitHub URL to the notebook at https://nbviewer.jupyter.org/ to render it.
